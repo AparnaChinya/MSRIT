@@ -13,8 +13,12 @@ Xamarin-Azure
  
 4.	Open PageOne.xaml > Copy paste the below code inside the ContentPage Node.
  
+
 <Grid>
-     <Button x:Name="myButton" Text="Hello World" Font="20" Clicked="myButton_Click" HorizontalOptions="Center" VerticalOptions ="Center" />
+
+
+     <Button x:Name="myButton" Text="Hello World" Font="20" Clicked="myButton_Click" HorizontalOptions="Center" VerticalOptions      ="Center" />
+  
   
   </Grid>
  
